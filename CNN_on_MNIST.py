@@ -7,6 +7,7 @@ from numpy import expand_dims
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
 
 x_train = expand_dims(x_train, 3)
