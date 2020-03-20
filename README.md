@@ -1,6 +1,6 @@
 #NOTE ABOUT THIS PROJECT:
 
-  build a CNN model on MNIST dataset 
+    build a CNN model on MNIST dataset 
   
 #Model consists of :
 
@@ -11,4 +11,4 @@
     
 #Model accuracy :
 
-  99.29%
+    99.29%
